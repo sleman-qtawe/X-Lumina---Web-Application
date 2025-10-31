@@ -32,10 +32,10 @@ This web application presents a comprehensive digital services portfolio with:
 
 ## 📱 Application Preview
 
-![Home](./images/Home.png)
-![Project](./images/Project.png)
-![About](./images/About.png)
-![Contact](./images/Contact.png)
+![Home](./images/Home.PNG)
+![Project](./images/Project.PNG)
+![About](./images/About.PNG)
+![Contact](./images/Contact.PNG)
 
 ## 🔒 Project Status
 
