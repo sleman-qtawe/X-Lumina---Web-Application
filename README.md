@@ -2,6 +2,8 @@
 
 X Lumina is a modern, interactive web application built with React, CSS, and Framer Motion. The platform showcases digital services including graphic design, video editing, 3D design, and web development through an elegant and responsive user interface.
 
+##  Live Website :)  [https://www.xlumina.co/](https://www.xlumina.co/)
+
 ##  Overview
 
 This web application presents a comprehensive digital services portfolio with:
