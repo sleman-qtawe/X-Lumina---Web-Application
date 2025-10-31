@@ -2,7 +2,7 @@
 
 X Lumina is a modern, interactive web application built with React, CSS, and Framer Motion. The platform showcases digital services including graphic design, video editing, 3D design, and web development through an elegant and responsive user interface.
 
-## 🌟 Overview
+##  Overview
 
 This web application presents a comprehensive digital services portfolio with:
 - Interactive service showcases
@@ -13,7 +13,7 @@ This web application presents a comprehensive digital services portfolio with:
 
 **Note:** The "Projects" page is currently under development with a "Coming Soon" placeholder.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **React** - Modern frontend framework
 - **CSS** - Custom styling and responsive design
@@ -21,7 +21,7 @@ This web application presents a comprehensive digital services portfolio with:
 - **React Router** - Navigation between pages
 - **SEO Component** - Search engine optimization
 
-## ✨ Key Features
+##  Key Features
 
 - **Interactive Services Section** - Elegant presentation of digital services
 - **Multiple Contact Options** - WhatsApp integration and various contact methods
@@ -30,14 +30,14 @@ This web application presents a comprehensive digital services portfolio with:
 - **Email Integration** - Copy-to-email feature with user feedback
 - **Smooth Animations** - Enhanced user experience with fluid transitions
 
-## 📱 Application Preview
+##  Application Preview
 
 ![Home](./images/Home.PNG)
 ![Project](./images/Project.PNG)
 ![About](./images/About.PNG)
 ![Contact](./images/Contact.PNG)
 
-## 🔒 Project Status
+##  Project Status
 
 This project was professionally developed and delivered to a client. The source code and assets remain private for confidentiality reasons. The application is actively maintained to ensure optimal performance and user experience.
 
