@@ -8,14 +8,13 @@ I handle all updates
 
 ---
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge)](https://wa.me/972503820005)
 
+---
 ![Home](./images/Home.PNG)
 ![Project](./images/Project.PNG)
 ![About](./images/About.PNG)
 ![Contact](./images/Contact.PNG)
 
 
-
-
- [online](https://wa.me/9723820005)
 
