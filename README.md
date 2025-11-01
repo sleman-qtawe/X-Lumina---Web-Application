@@ -8,7 +8,6 @@ I handle all updates
 
 ---
 
-## Preview
 
 ![Home](./images/Home.PNG)
 ![Project](./images/Project.PNG)
