@@ -7,7 +7,7 @@ Live: [https://www.xlumina.co/](https://www.xlumina.co/)
 I handle all updates
 
 ---
-#Contact me
+## Contact me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge)](https://wa.me/972503820005)
 
 ---
