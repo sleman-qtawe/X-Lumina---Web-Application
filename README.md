@@ -1,12 +1,10 @@
 # X Lumina | Web Application
 
-X Lumina is a sleek, interactive web app built with **React**, **CSS**, and **Framer Motion**.  
-It showcases digital services like design, video editing, 3D, and web development through a smooth, responsive interface.
+Built with **React**, **CSS**, and **Framer Motion**, X Lumina is a sleek, interactive web app showcasing digital services like design, video editing, 3D, and web development.
 
-Delivered as a **startup project** — fully designed and developed by me, sold for **$1,500**.
-Live: [https://www.xlumina.co/](https://www.xlumina.co/)
-**Note:** One page is currently under development (coming soon).
-
+Delivered as a **startup project** — designed and developed by me, sold for **$1,500**.  
+Live: [https://www.xlumina.co/](https://www.xlumina.co/)  
+One page is under development; I handle all updates and maintenance.
 
 ---
 
@@ -16,6 +14,4 @@ Live: [https://www.xlumina.co/](https://www.xlumina.co/)
 ![Project](./images/Project.PNG)
 ![About](./images/About.PNG)
 ![Contact](./images/Contact.PNG)
-
----
 
